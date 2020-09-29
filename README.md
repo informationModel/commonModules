@@ -24,9 +24,10 @@ Provide the detailed information such as
 - Interface type
 
   . According to Module type
-    Mechanical inteface
-    Electrical Interface
-    Software Interface
+  
+      Mechanical inteface
+      Electrical Interface
+      Software Interface
    
   . According to Shape or Role
   

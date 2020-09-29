@@ -29,9 +29,10 @@ Provide the detailed information such as
     Software Interface
    
   . According to Shape or Role
-    Female and Male  for Mechanical and Elec. Ifs.
+  
+      Female and Male  for Mechanical and Elec. Ifs.
     
-    Provided(provider) and required(consumer) for SW IFs
+      Provided(provider) and required(consumer) for SW IFs
 - Interface pose/size if necessary
 
 Used for check the interconnection and invoke the services

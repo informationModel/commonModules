@@ -31,8 +31,7 @@ Provide the detailed information such as
    
   . According to Shape or Role
   
-      Female and Male  for Mechanical and Elec. Ifs.
-    
+      Female and Male  for Mechanical and Elec. Ifs.    
       Provided(provider) and required(consumer) for SW IFs
 - Interface pose/size if necessary
 

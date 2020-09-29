@@ -33,4 +33,5 @@ Provide the detailed information such as
     
     Provided(provider) and required(consumer) for SW IFs
 - Interface pose/size if necessary
+
 Used for check the interconnection and invoke the services

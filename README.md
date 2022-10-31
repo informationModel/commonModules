@@ -1,7 +1,8 @@
 # Common Information Model for Robot Modules
 
 - License of source code is avaiable in https://github.com/informationModel/commonModules/wiki/License-for-the-editor-of-common-information-model-for-robot-modules
-
+  . CIM Editor 0.9.1
+  
 ## Describe common information for modules
 - Module with hardware aspect and software aspect (Abbreviation: HWSW module)
 - Module with only hardware aspects(Abbreviation: HW module)

@@ -1,11 +1,13 @@
-Common Information Model: 
+# Common Information Model for Robot Modules
 
-Describe common information for modules such as 
+- License of source code is avaiable in https://github.com/informationModel/commonModules/wiki/License-for-the-editor-of-common-information-model-for-robot-modules
+
+## Describe common information for modules
 - Module with hardware aspect and software aspect (Abbreviation: HWSW module)
 - Module with only hardware aspects(Abbreviation: HW module)
 - Module with only software aspects(Abbreviation: SW module)
 
-Common information
+## Common information
 - Based on template in Annex A of ISO 22166-1
 
   . Provided rough information
@@ -17,7 +19,7 @@ Common information
 
   . From viewpoint of producer and consumer
 
-Information model for SW aspects and HW aspects:
+## Information model for SW aspects and HW aspects:
 
 Provide the detailed information such as
 - Operating environments/conditions

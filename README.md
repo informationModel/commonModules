@@ -1,6 +1,6 @@
 # Common Information Model for Robot Modules
 
-- License of source code is avaiable in https://github.com/informationModel/commonModules/wiki/License-for-the-editor-of-common-information-model-for-robot-modules
+- License of source code is avaiable in https://github.com/informationModel/commonModules/wiki/License-for-the-editor-of-common-information-model-for-robot-modules <br>
   . CIM Editor 0.9.1
   
 ## Describe common information for modules
